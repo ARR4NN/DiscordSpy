@@ -1,0 +1,9 @@
+name: DiscordSpy
+version: '${project.version}'
+main: com.arr4nn.discordspy.DiscordSpy
+api-version: 1.15
+authors: [ ARR4NN ]
+description: A plugin to add events that DiscordSRV listens too.
+website: ARR4NN.com
+depend:
+  - TownyChat
